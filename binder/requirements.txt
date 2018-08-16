@@ -9,3 +9,4 @@ plotly
 dash_table_experiments 
 dash_auth
 flask==0.12.2
+nbserverproxy
