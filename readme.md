@@ -2,7 +2,7 @@
 
 Miscellaneous AI, Machine Learning & Data Science experiments 
 
-## Run DevScope AI lab on binder
+## Run DevScope AI Lab on binder
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DevScope/ai-lab/master)
 
 Jupyter environment preloaded with some of our favorite Notebook extensions
