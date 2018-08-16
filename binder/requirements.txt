@@ -1,3 +1,5 @@
+numpy
+matplotlib
 pandas
 shap
 lime
@@ -9,4 +11,6 @@ plotly
 dash_table_experiments 
 dash_auth
 flask==0.12.2
+ipywidgets
+jupyter_contrib_nbextensions
 nbserverproxy
