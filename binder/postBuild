@@ -1,4 +1,7 @@
 jupyter serverextension enable --py nbserverproxy
+jupyter contrib nbextension install --user
+jupyter nbextension enable --py widgetsnbextension
+
 jupyter nbextension enable toc2/main
 jupyter nbextension enable hide_input_all/main
 jupyter nbextension enable table_beautifier/main
