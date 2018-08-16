@@ -1,0 +1,8 @@
+dash
+dash-renderer
+dash-html-components
+dash-core-components
+plotly
+dash_table_experiments 
+dash_auth
+flask==0.12.2
