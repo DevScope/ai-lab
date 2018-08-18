@@ -8,7 +8,7 @@ Miscellaneous AI, Machine Learning & Data Science experiments
   ![](./dash-classification-eval/screenshot.png)
   
 
-## Run DevScope AI Lab on binder
+# Run DevScope AI Lab on binder
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DevScope/ai-lab/master)
 
 note-Jupyter environment is preloaded with some of our favorite Notebook extensions
