@@ -1,6 +1,8 @@
 numpy
 matplotlib
 pandas
+sklearn-pandas
+scipy
 shap
 lime
 dash

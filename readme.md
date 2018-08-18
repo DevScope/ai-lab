@@ -13,3 +13,4 @@ note-Jupyter environment is preloaded with some of our favorite Notebook extensi
 
 - https://mybinder.org/
 - https://github.com/4QuantOSS/DashIntro 
+- https://github.com/plotly/dash-svm
