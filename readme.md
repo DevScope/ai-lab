@@ -6,8 +6,12 @@ Miscellaneous AI, Machine Learning & Data Science experiments
 ## Dash Classification Eval
 [![Binder](https://beta.mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DevScope/ai-lab/master?filepath=dash-classification-eval%2Fdash-classification-eval.ipynb)
   ![](./dash-classification-eval/screenshot.png)
-  
 
+## Dash Search CV Eval  
+(https://mybinder.org/v2/gh/DevScope/ai-lab/master?filepath=dash-searchcv-eval%2Fdash-searchcv-eval.ipynb)
+  ![](./dash-searchcv-eval/screenshot.png)
+
+  
 # Run DevScope AI Lab on binder
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DevScope/ai-lab/master)
 
