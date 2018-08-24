@@ -3,3 +3,4 @@ archive/
 ai_lab.egg-info/
 */__pycache__/*
 ailab.egg-info/
+temp/

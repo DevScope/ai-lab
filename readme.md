@@ -5,16 +5,16 @@ Miscellaneous AI, Machine Learning & Data Science experiments
 # Experiments
 
 ## SHAP Dash! Explanations on Dash 
-[![Binder](https://beta.mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DevScope/ai-lab/master?filepath=shap-dash%2Fshap-dash.ipynb)
-  ![](./shap-dash/screenshot.gif)
+[![Binder](https://beta.mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DevScope/ai-lab/master?filepath=notebooks%2Fshap-dash%2Fshap-dash.ipynb)
+  ![](./notebooks/shap-dash/screenshot.gif)
 
 ## Dash Classification Eval
-[![Binder](https://beta.mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DevScope/ai-lab/master?filepath=dash-classification-eval%2Fdash-classification-eval.ipynb)
-  ![](./dash-classification-eval/screenshot.png)
+[![Binder](https://beta.mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DevScope/ai-lab/master?filepath=notebooks%2Fdash-classification-eval%2Fdash-classification-eval.ipynb)
+  ![](./notebooks/dash-classification-eval/screenshot.png)
 
 ## Dash Search CV Eval  
-[![Binder](https://beta.mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DevScope/ai-lab/master?filepath=dash-searchcv-eval%2Fdash-searchcv-eval.ipynb)
-  ![](./dash-searchcv-eval/screenshot.png)
+[![Binder](https://beta.mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DevScope/ai-lab/master?filepath=notebooks%2Fdash-searchcv-eval%2Fdash-searchcv-eval.ipynb)
+  ![](./notebooks/dash-searchcv-eval/screenshot.png)
 
   
 # Run DevScope AI Lab on binder
