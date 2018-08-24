@@ -3,6 +3,11 @@
 Miscellaneous AI, Machine Learning & Data Science experiments 
 
 # Experiments
+
+## SHAP Dash! Explanations on Dash 
+[![Binder](https://beta.mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DevScope/ai-lab/master?filepath=shap-dash%2Fshap-dash.ipynb)
+  ![](./shap-dash/screenshot.gif)
+
 ## Dash Classification Eval
 [![Binder](https://beta.mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DevScope/ai-lab/master?filepath=dash-classification-eval%2Fdash-classification-eval.ipynb)
   ![](./dash-classification-eval/screenshot.png)
