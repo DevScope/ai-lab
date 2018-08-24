@@ -1,7 +1,9 @@
 numpy
 matplotlib
 pandas
+sklearn
 sklearn-pandas
+joblib
 scipy
 shap
 lime
