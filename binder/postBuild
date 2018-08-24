@@ -14,5 +14,4 @@ jupyter nbextension enable code_prettify/code_prettify
 jupyter nbextension enable scratchpad/main
 
 # install ailab as package
-pwd
-pip instal --editable .
+pip install --editable .
