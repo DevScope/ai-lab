@@ -10,7 +10,7 @@ Miscellaneous AI, Machine Learning & Data Science experiments
 
 ## Dash Classification Eval
 [![Binder](https://beta.mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DevScope/ai-lab/master?filepath=notebooks%2Fdash-classification-eval%2Fdash-classification-eval.ipynb)
-  ![](./notebooks/dash-classification-eval/screenshot.png)
+  ![](./notebooks/dash-classification-eval/screenshot.gif)
 
 ## Dash Search CV Eval  
 [![Binder](https://beta.mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DevScope/ai-lab/master?filepath=notebooks%2Fdash-searchcv-eval%2Fdash-searchcv-eval.ipynb)
