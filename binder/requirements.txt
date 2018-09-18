@@ -21,3 +21,4 @@ flask==0.12.2
 ipywidgets
 jupyter_contrib_nbextensions
 nbserverproxy
+appmode
