@@ -22,3 +22,4 @@ ipywidgets
 jupyter_contrib_nbextensions
 nbserverproxy
 appmode
+ppextensions
