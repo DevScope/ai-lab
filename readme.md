@@ -10,6 +10,7 @@ Miscellaneous AI, Machine Learning & Data Science experiments
 
 ## Deconstructing Pipelines - thoughts for easier pipelines with custom prep steps, from Jupyter to Operationalization & easy retraining
 [![Binder](https://beta.mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DevScope/ai-lab/master?filepath=notebooks%2Fdeconstructing-pipelines)
+
   ![](./notebooks/deconstructing-pipelines/screenshot1.png)
   ![](./notebooks/deconstructing-pipelines/screenshot2.png)
   ![](./notebooks/deconstructing-pipelines/screenshot3.png)
