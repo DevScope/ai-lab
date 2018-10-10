@@ -4,7 +4,7 @@ Miscellaneous AI, Machine Learning & Data Science experiments
 
 # Experiments
 
-##  Code for DSPT Day DevScope Machine Learning Competition with LogicApps, Microsoft Forms, Python & Power BI
+##  Python Code for DSPT Day DevScope Machine Learning Competition with LogicApps, Microsoft Forms, Python & Power BI
 More info on DevScope AI blog: [Code & Walkthrough for DSPT Day DevScope Machine Learning Competition with LogicApps, Microsoft Forms, Python & Power BI](https://medium.com/devscope-ai/code-walkthrough-for-dspt-day-devscope-machine-learning-competition-with-logicapps-microsoft-cdc8efecaa79)
 
 [![Binder](https://beta.mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DevScope/ai-lab/master?filepath=notebooks%2Fdsptday-ml-competition)
@@ -47,3 +47,5 @@ note-Jupyter environment is preloaded with some of our favorite Notebook extensi
 - https://mybinder.org/
 - https://github.com/4QuantOSS/DashIntro 
 - https://github.com/plotly/dash-svm
+- https://plot.ly/products/dash/
+- https://plot.ly/products/dash/
