@@ -20,4 +20,5 @@ jupyter nbextension enable scratchpad/main
 pip install --editable .
 
 # http://forums.fast.ai/t/jupyter-notebook-enhancements-tips-and-tricks/17064
-cp ./binder/custom.js $JUPYTER_SERVER_ROOT/.jupyter/custom/custom.js
+mkdir /home/jovyan/.jupyter/custom
+cp ./binder/custom.js /home/jovyan/.jupyter/custom/custom.js
