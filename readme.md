@@ -4,6 +4,12 @@ Miscellaneous AI, Machine Learning & Data Science experiments
 
 # Experiments
 
+## Fastai v3 Mnist sample (binder)
+
+[![Binder](https://beta.mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DevScope/ai-lab/master?filepath=notebooks%2Ffastai%2Ffastai-mnist-sample.ipynb)
+
+![](./images/fastai-mnist-sample.png)
+
 ##  Python Code for DSPT Day DevScope Machine Learning Competition with LogicApps, Microsoft Forms, Python & Power BI
 More info on DevScope AI blog: [Code & Walkthrough for DSPT Day DevScope Machine Learning Competition with LogicApps, Microsoft Forms, Python & Power BI](https://medium.com/devscope-ai/code-walkthrough-for-dspt-day-devscope-machine-learning-competition-with-logicapps-microsoft-cdc8efecaa79)
 
