@@ -15,6 +15,7 @@ jupyter nbextension enable notify/notify
 jupyter nbextension enable collapsible_headings/main
 jupyter nbextension enable code_prettify/code_prettify
 jupyter nbextension enable scratchpad/main
+jupyter nbextension enable zenmode/main
 
 # install ailab as package
 pip install --editable .
