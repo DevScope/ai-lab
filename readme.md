@@ -4,6 +4,10 @@ Miscellaneous AI, Machine Learning & Data Science experiments
 
 # Experiments
 
+## Building the Future samples, slides, references
+
+Content at https://github.com/DevScope/ai-lab/tree/master/notebooks/building-the-future
+
 ## Fastai v3 Mnist sample (binder)
 
 [![Binder](https://beta.mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DevScope/ai-lab/master?filepath=notebooks%2Ffastai%2Ffastai-mnist-sample.ipynb)
