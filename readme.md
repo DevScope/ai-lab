@@ -4,9 +4,11 @@ Miscellaneous AI, Machine Learning & Data Science experiments
 
 # Experiments
 
-## Building the Future samples, slides, references
+## "Lean AI with Deep learning and AutoML" session samples, slides, references (Building the Future event)
 
 Content at https://github.com/DevScope/ai-lab/tree/master/notebooks/building-the-future
+
+![](./notebooks/building-the-future/screenshot.png)
 
 ## Fastai v3 Mnist sample (binder)
 
