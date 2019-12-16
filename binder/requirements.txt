@@ -7,12 +7,12 @@ joblib
 scipy
 shap
 lime
-dash
-dash-renderer
-dash-html-components
-dash-core-components
+dash==0.36.0
+dash-renderer=0.17.0
+dash-html-components==1.0.0a2
+dash-core-components==0.42.1
+dash_table_experiments ==0.6.0
 plotly
-dash_table_experiments 
 dash_auth
 seaborn
 
