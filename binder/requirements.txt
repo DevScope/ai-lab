@@ -1,7 +1,7 @@
 numpy
 matplotlib
 pandas
-sklearn==0.21
+sklearn==0.21.3
 sklearn-pandas
 joblib
 scipy
