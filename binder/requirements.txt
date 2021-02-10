@@ -18,7 +18,7 @@ cffi==1.12.3
 chardet==3.0.4
 Click==7.0
 confuse==1.0.0
-cryptography==3.2
+cryptography==3.3.2
 cycler==0.10.0
 cymem==2.0.3
 dash==0.36.0
