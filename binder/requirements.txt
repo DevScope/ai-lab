@@ -103,7 +103,7 @@ ptyprocess==0.6.0
 py==1.8.0
 pycparser==2.19
 pycurl==7.43.0.2
-Pygments==2.4.2
+Pygments==2.7.4
 PyJWT==1.7.1
 pylint==2.4.4
 pyOpenSSL==19.0.0
