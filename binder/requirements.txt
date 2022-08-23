@@ -72,7 +72,7 @@ missingno==0.4.2
 mistune==0.8.4
 more-itertools==8.0.2
 murmurhash==1.0.2
-nbconvert==5.4.1
+nbconvert==6.5.1
 nbformat==4.4.0
 nbserverproxy==0.8.8
 networkx==2.4
